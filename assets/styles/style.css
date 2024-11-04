@@ -1,0 +1,85 @@
+.header {
+  background-color: #BCC0C6;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  min-height: 100px;
+  align-content: center;
+  text-align: center;
+
+}
+
+.container {
+
+  min-height: 600px;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.main {
+  background-color: #FFF8E3;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  display: grid;
+  grid-template-rows: 2fr 1.5fr 1.5fr;
+text-align: center;
+
+}
+
+.eshe {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+}
+
+.eshe-1 {
+  background-color: #FEEAB9;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  min-height: 90px;
+  width: 350px;
+}
+
+.eshe-2 {
+  background-color: #FEEAB9;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  min-height: 90px;
+  width: 350px;
+}
+
+.eshe-3 {
+  background-color: #FEEAB9;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  width: 800px;
+  min-height: 100px;
+  margin-top: 30px;
+  margin-left: 300px;
+  margin-bottom: 10px;
+}
+
+  .aside {
+    background-color: #e1f7c7;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+  }
+
+
+  .footer {
+    background-color: #E0E0E0;
+    min-height: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+ }
+
+  .section {
+    background-color: #BCC0C6;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+  } 
